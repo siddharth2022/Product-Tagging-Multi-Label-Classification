@@ -1,0 +1,5 @@
+param,value
+model,../Model/fashion.model
+label,../Model/mlb.pickle
+image,../Input/dataset
+plot,../Output/out.png

@@ -1,0 +1,5 @@
+param,value
+model,../Model/fashion.model
+label,../Model/mlb.pickle
+image,../Input/example_01.jpg
+output,../Output/out.csv
